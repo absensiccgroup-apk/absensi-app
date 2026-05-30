@@ -1,0 +1,9 @@
+{
+  "short_name": "Absensi",
+  "name": "AbsensiApp — Sistem Absensi Karyawan",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#064E3B",
+  "background_color": "#F9FAFB",
+  "icons": []
+}
