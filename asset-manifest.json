@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/absensi-app/static/css/main.6d5411c0.css",
-    "main.js": "/absensi-app/static/js/main.951cae23.js",
+    "main.js": "/absensi-app/static/js/main.b53aac2d.js",
     "index.html": "/absensi-app/index.html",
     "main.6d5411c0.css.map": "/absensi-app/static/css/main.6d5411c0.css.map",
-    "main.951cae23.js.map": "/absensi-app/static/js/main.951cae23.js.map"
+    "main.b53aac2d.js.map": "/absensi-app/static/js/main.b53aac2d.js.map"
   },
   "entrypoints": [
     "static/css/main.6d5411c0.css",
-    "static/js/main.951cae23.js"
+    "static/js/main.b53aac2d.js"
   ]
 }
