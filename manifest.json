@@ -1,9 +1,61 @@
 {
-  "short_name": "Absensi",
-  "name": "AbsensiApp — Sistem Absensi Karyawan",
-  "start_url": ".",
+  "name": "AbsensiApp — CC Group",
+  "short_name": "AbsensiApp",
+  "description": "Sistem Absensi Karyawan CC Group",
+  "start_url": "/absensi-app/",
+  "scope": "/absensi-app/",
   "display": "standalone",
+  "orientation": "portrait",
   "theme_color": "#064E3B",
-  "background_color": "#F9FAFB",
-  "icons": []
+  "background_color": "#064E3B",
+  "icons": [
+    {
+      "src": "icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
